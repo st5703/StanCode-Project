@@ -1,5 +1,6 @@
 """
 File: stanCodoshop.py
+Name: Che-Hsien, Chiu
 ----------------------------------------------
 SC101_Assignment3
 Adapted from Nick Parlante's
