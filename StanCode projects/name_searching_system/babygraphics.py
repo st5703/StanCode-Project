@@ -1,9 +1,11 @@
 """
+File: babygraphics.py
+Name: Che-Hsien, Chiu
+
 SC101 Baby Names Project
 Adapted from Nick Parlante's Baby Names assignment by
 Jerry Liao.
 
-YOUR DESCRIPTION HERE
 baby name statistics in each year
 """
 
