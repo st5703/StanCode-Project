@@ -1,10 +1,12 @@
 """
+File: breakout.py
+Name: Che-Hsien, Chiu
+
 stanCode Breakout Project
 Adapted from Eric Roberts's Breakout by
 Sonja Johnson-Yu, Kylie Jue, Nick Bowman,
 and Jerry Liao
 
-YOUR DESCRIPTION HERE
 User side of Breakout Project
 """
 
